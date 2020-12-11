@@ -847,3 +847,104 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.11-09.51.06:965][640]LogOnline: OSS: Creating online subsystem instance for: :Context_6
 [2020.12.11-09.51.06:967][640]PIE: Server logged in
 [2020.12.11-09.51.06:967][640]PIE: Play in editor total start time 0.072 seconds.
+[2020.12.11-09.52.13:768][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-09.52.13:768][497]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.12.11-09.52.13:768][497]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.11-09.52.13:768][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.11-09.52.13:775][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.11-09.52.13:777][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.11-09.52.13:808][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-09.52.13:809][497]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001940A0734C0), frame # 17497
+[2020.12.11-09.52.13:809][497]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019410F36000), frame # 17497
+[2020.12.11-09.52.13:810][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.12.11-09.52.13:837][498]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.12.11-09.52.15:810][731]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Spritesheet_TileMap)
+[2020.12.11-09.52.16:580][819]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Spritesheet_TileMap)
+[2020.12.11-09.52.19:049][110]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.11-09.52.19:049][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.11-09.52.24:493][725]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Sprites/Spritesheet_TileSet.Spritesheet_TileSet
+[2020.12.11-09.52.26:716][941]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.12.11-09.52.26:716][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.11-09.52.27:867][ 64]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Sprites/Spritesheet_TileMap.Spritesheet_TileMap
+[2020.12.11-09.52.28:256][ 64]LogRenderer: Reallocating scene render targets to support 1208x920 Format 10 NumSamples 1 (Frame:1).
+[2020.12.11-09.52.34:710][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Spritesheet_TileMap" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Sprites/Spritesheet_TileMap.uasset" SILENT=true
+[2020.12.11-09.52.34:722][799]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Spritesheet_TileMapB6258C714DCF19FF6B7D5C822D25B9E2.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Sprites/Spritesheet_TileMap.uasset'
+[2020.12.11-09.52.34:735][799]AssetCheck: New page: Asset Save: Spritesheet_TileMap
+[2020.12.11-09.52.34:735][799]LogContentValidation: Display: Validating PaperTileMap /Game/Sprites/Spritesheet_TileMap.Spritesheet_TileMap
+[2020.12.11-09.52.39:707][241]LogSlate: Window 'Spritesheet_TileMap' being destroyed
+[2020.12.11-09.52.42:773][556]LogEditorFactories: Performing atomic reimport of [C:/Users/ferna/Downloads/Spritesheet.png]
+[2020.12.11-09.52.42:780][556]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/ferna/Downloads/Spritesheet.png)
+[2020.12.11-09.52.42:782][556]LogTexture: Display: Building textures: Spritesheet (BGRA8, 256X256)
+[2020.12.11-09.52.42:785][556]LogEditorFactories: -- imported successfully
+[2020.12.11-09.52.51:506][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.12.11-09.52.52:646][456]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.11-09.52.52:849][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.12.11-09.52.52:866][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.12.11-09.52.52:882][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.12.11-09.52.52:898][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.12.11-09.52.52:914][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.12.11-09.52.52:930][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.12.11-09.52.52:946][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.12.11-09.52.52:961][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.12.11-09.52.52:984][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.12.11-09.52.52:999][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.12.11-09.53.18:664][320]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.11-09.53.48:455][791]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Sprites/Spritesheet_TileSet.Spritesheet_TileSet
+[2020.12.11-09.54.31:906][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Spritesheet_TileSet" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Sprites/Spritesheet_TileSet.uasset" SILENT=true
+[2020.12.11-09.54.31:915][944]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Spritesheet_TileSetD1AF125C40CEB90ED13831BCD4D97B85.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Sprites/Spritesheet_TileSet.uasset'
+[2020.12.11-09.54.31:926][944]AssetCheck: New page: Asset Save: Spritesheet_TileSet
+[2020.12.11-09.54.31:926][944]LogContentValidation: Display: Validating PaperTileSet /Game/Sprites/Spritesheet_TileSet.Spritesheet_TileSet
+[2020.12.11-09.54.37:294][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Spritesheet_TileSet" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Sprites/Spritesheet_TileSet.uasset" SILENT=true
+[2020.12.11-09.54.37:302][565]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Spritesheet_TileSetF81AD43949F2ADA58370C1BD28AD121E.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Sprites/Spritesheet_TileSet.uasset'
+[2020.12.11-09.54.37:315][565]AssetCheck: New page: Asset Save: Spritesheet_TileSet
+[2020.12.11-09.54.37:315][565]LogContentValidation: Display: Validating PaperTileSet /Game/Sprites/Spritesheet_TileSet.Spritesheet_TileSet
+[2020.12.11-09.54.41:406][ 41]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.12.11-09.54.41:406][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.11-09.55.06:321][859]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.11-09.55.15:948][930]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Spritesheet_Sprite_11B902D29C4D4F35D2323ADCA3B1E00D86.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/BackgroundSprites/Spritesheet_Sprite_11.uasset'
+[2020.12.11-09.55.15:955][930]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Spritesheet_Sprite_128D81185742E7557784609FAE9A1DDB83.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/BackgroundSprites/Spritesheet_Sprite_12.uasset'
+[2020.12.11-09.55.15:962][930]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Spritesheet_Sprite_13D37FE5C942899BBD84BD6B8DC657D1F2.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/BackgroundSprites/Spritesheet_Sprite_13.uasset'
+[2020.12.11-09.55.15:969][930]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Spritesheet_Sprite_146CFDC8A144DC6F3F2720D18C79B16782.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/BackgroundSprites/Spritesheet_Sprite_14.uasset'
+[2020.12.11-09.55.16:359][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.12.11-09.55.16:383][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.12.11-09.55.16:399][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.12.11-09.55.16:415][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.12.11-09.55.16:438][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.12.11-09.55.16:452][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.12.11-09.55.16:489][930]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.11-09.55.16:489][930]LogContentValidation: Display: Validating PaperSprite /Game/BackgroundSprites/Spritesheet_Sprite_11.Spritesheet_Sprite_11
+[2020.12.11-09.55.16:489][930]LogContentValidation: Display: Validating PaperSprite /Game/BackgroundSprites/Spritesheet_Sprite_12.Spritesheet_Sprite_12
+[2020.12.11-09.55.16:489][930]LogContentValidation: Display: Validating PaperSprite /Game/BackgroundSprites/Spritesheet_Sprite_13.Spritesheet_Sprite_13
+[2020.12.11-09.55.16:489][930]LogContentValidation: Display: Validating PaperSprite /Game/BackgroundSprites/Spritesheet_Sprite_14.Spritesheet_Sprite_14
+[2020.12.11-09.55.25:341][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BackgroundSprites/Cloud_1" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/BackgroundSprites/Cloud_1.uasset" SILENT=true
+[2020.12.11-09.55.25:343][969]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Cloud_188FE9E73455F66DCDECF07BB54C9A44A.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/BackgroundSprites/Cloud_1.uasset'
+[2020.12.11-09.55.25:515][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.12.11-09.55.25:539][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.12.11-09.55.25:555][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.12.11-09.55.25:575][969]AssetCheck: New page: Asset Save: Cloud_1
+[2020.12.11-09.55.25:575][969]LogContentValidation: Display: Validating PaperSprite /Game/BackgroundSprites/Cloud_1.Cloud_1
+[2020.12.11-09.55.29:225][392]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/BackgroundSprites/Cloud_1.Cloud_1
+[2020.12.11-09.55.29:397][393]LogRenderer: Reallocating scene render targets to support 1528x920 Format 10 NumSamples 1 (Frame:1).
+[2020.12.11-09.55.31:201][598]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.12.11-09.55.31:201][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.11-09.55.35:935][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BackgroundSprites/Cloud_2" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/BackgroundSprites/Cloud_2.uasset" SILENT=true
+[2020.12.11-09.55.35:937][142]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Cloud_2B626BA44417B8D9CCDCD0985DE7EE2B5.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/BackgroundSprites/Cloud_2.uasset'
+[2020.12.11-09.55.36:094][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.12.11-09.55.36:119][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.12.11-09.55.36:136][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.12.11-09.55.36:156][142]AssetCheck: New page: Asset Save: Cloud_2
+[2020.12.11-09.55.36:156][142]LogContentValidation: Display: Validating PaperSprite /Game/BackgroundSprites/Cloud_2.Cloud_2
+[2020.12.11-09.55.43:324][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BackgroundSprites/Cloud_3" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/BackgroundSprites/Cloud_3.uasset" SILENT=true
+[2020.12.11-09.55.43:327][987]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Cloud_388C893D54C513771B64A438260C6E5E8.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/BackgroundSprites/Cloud_3.uasset'
+[2020.12.11-09.55.43:482][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.12.11-09.55.43:506][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.12.11-09.55.43:521][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.12.11-09.55.43:541][987]AssetCheck: New page: Asset Save: Cloud_3
+[2020.12.11-09.55.43:541][987]LogContentValidation: Display: Validating PaperSprite /Game/BackgroundSprites/Cloud_3.Cloud_3
+[2020.12.11-09.55.57:339][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BackgroundSprites/Sky" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/BackgroundSprites/Sky.uasset" SILENT=true
+[2020.12.11-09.55.57:341][513]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Sky2DA29A184EA0E3851C566296B87A7C20.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/BackgroundSprites/Sky.uasset'
+[2020.12.11-09.55.57:531][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.12.11-09.55.57:559][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.12.11-09.55.57:574][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.12.11-09.55.57:595][513]AssetCheck: New page: Asset Save: Sky
+[2020.12.11-09.55.57:595][513]LogContentValidation: Display: Validating PaperSprite /Game/BackgroundSprites/Sky.Sky
