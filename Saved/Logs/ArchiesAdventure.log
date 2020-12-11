@@ -3256,3 +3256,7 @@ Purging the undo buffer...
 [2020.12.11-11.59.49:758][234]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022DB6973800), frame # 322234
 [2020.12.11-11.59.49:760][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
 [2020.12.11-11.59.49:781][235]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2020.12.11-12.04.34:006][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.12.11-12.04.34:354][344]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/2DSideScrollerExampleMap_Auto70D8AF83E4485D9EFE6AAFABC9A6722AE.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto7.umap'
+[2020.12.11-12.04.34:354][344]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.368
+[2020.12.11-12.04.34:354][344]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.368
