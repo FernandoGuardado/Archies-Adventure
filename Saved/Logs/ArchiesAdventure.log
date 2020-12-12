@@ -25122,3 +25122,13 @@ Script Stack (0 frames):
 [2020.12.12-04.15.41:702][107]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000213A8814A00), frame # 1122107
 [2020.12.12-04.15.41:703][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
 [2020.12.12-04.15.41:736][108]LogPlayLevel: Display: Destroying online subsystem :Context_191
+[2020.12.12-04.16.19:274][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.12.12-04.16.19:296][454]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Level_1_Auto306C90D39499E0E1028C1EB8E46857395.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Autosaves/Game/2DSideScrollerBP/Maps/Level_1_Auto3.umap'
+[2020.12.12-04.16.19:297][454]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Level_1' took 0.046
+[2020.12.12-04.16.19:297][454]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.046
+[2020.12.12-04.16.19:297][454]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/bush] ([1] browsable assets)...
+[2020.12.12-04.16.19:299][454]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprites/bush.bush]
+[2020.12.12-04.16.19:299][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/bush]
+[2020.12.12-04.16.19:299][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/bush" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Autosaves/Game/Sprites/bush_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.12.12-04.16.19:303][454]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/bush_Auto35071298545ED94971AA16BB6A61EB447.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Autosaves/Game/Sprites/bush_Auto3.uasset'
+[2020.12.12-04.16.19:303][454]LogFileHelpers: Auto-saving content packages took 0.006
