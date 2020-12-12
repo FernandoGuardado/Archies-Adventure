@@ -23219,3 +23219,1348 @@ Script Stack (0 frames):
 [2020.12.12-03.32.12:336][324]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002139D672000), frame # 896324
 [2020.12.12-03.32.12:339][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
 [2020.12.12-03.32.12:364][325]LogPlayLevel: Display: Destroying online subsystem :Context_141
+[2020.12.12-03.32.33:742][502]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Spritesheet_TileMap)
+[2020.12.12-03.32.40:878][285]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Sprites/Spritesheet_TileMap.Spritesheet_TileMap
+[2020.12.12-03.32.47:429][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Spritesheet_TileMap" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Sprites/Spritesheet_TileMap.uasset" SILENT=true
+[2020.12.12-03.32.47:484][ 11]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Spritesheet_TileMap9797FC7D4232C86B3D0BF7803A87CEE2.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Sprites/Spritesheet_TileMap.uasset'
+[2020.12.12-03.32.47:499][ 11]AssetCheck: New page: Asset Save: Spritesheet_TileMap
+[2020.12.12-03.32.47:499][ 11]LogContentValidation: Display: Validating PaperTileMap /Game/Sprites/Spritesheet_TileMap.Spritesheet_TileMap
+[2020.12.12-03.32.50:108][317]LogEditorViewport: Clicking on Actor (LMB): BP_Sprinkler_C (BP_Sprinkler)
+[2020.12.12-03.32.54:393][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.12.12-03.32.54:419][815]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Level_157C7698E41334842D4019285C27A5871.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/Level_1.umap'
+[2020.12.12-03.32.54:452][815]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Level_1_BuiltData0F633139401AD48D421FC3B3D9E0D2AA.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/Level_1_BuiltData.uasset'
+[2020.12.12-03.32.54:470][815]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.12-03.32.54:470][815]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/Level_1.Level_1
+[2020.12.12-03.32.54:470][815]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2020.12.12-03.33.04:175][958]Cmd: TRANSACTION UNDO
+[2020.12.12-03.33.04:175][958]LogEditorTransaction: Undo Set Scale
+[2020.12.12-03.33.05:377][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.12.12-03.33.05:397][ 51]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Level_1DC0593A4484B35809102A68B6EE1C01E.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/Level_1.umap'
+[2020.12.12-03.33.05:429][ 51]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Level_1_BuiltData87C5953949BE0E09E7997EAD9723C2D0.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/Level_1_BuiltData.uasset'
+[2020.12.12-03.33.05:453][ 51]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.12-03.33.05:453][ 51]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/Level_1.Level_1
+[2020.12.12-03.33.05:453][ 51]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2020.12.12-03.34.43:576][651]BlueprintLog: New page: Compile BP_EnemyCat
+[2020.12.12-03.34.43:629][651]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.12.12-03.34.43:880][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_EnemyCat" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_EnemyCat.uasset" SILENT=true
+[2020.12.12-03.34.44:019][671]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/BP_EnemyCatF0F1B73A4D67336E9054C0AFD1A56EFE.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_EnemyCat.uasset'
+[2020.12.12-03.34.44:061][671]AssetCheck: New page: Asset Save: BP_EnemyCat
+[2020.12.12-03.34.44:061][671]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_EnemyCat.BP_EnemyCat
+[2020.12.12-03.34.44:786][751]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-03.34.44:801][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-03.34.44:801][751]PIE: New page: PIE session: Level_1 (Dec 11, 2020, 1:34:44 PM)
+[2020.12.12-03.34.44:801][751]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.34.44:803][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002200s)
+[2020.12.12-03.34.44:804][751]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.34.44:804][751]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002138293AE00), frame # 911751
+[2020.12.12-03.34.44:804][751]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000213441E0180), frame # 911751
+[2020.12.12-03.34.44:804][751]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2020.12.12-03.34.44:804][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.003092s)
+[2020.12.12-03.34.44:833][751]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.12.12-03.34.44:833][751]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-03.34.44:833][751]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-03.34.44:833][751]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-03.34.44:833][751]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-03.34.44:833][751]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-03.34.44:833][751]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-03.34.44:833][751]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-03.34.44:833][751]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-03.34.44:834][751]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-03.34.44:834][751]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-03.34.44:839][751]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-03.34.44:839][751]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-03.34.44:855][751]LogAudioMixer: Display: Using Audio Device Headset Earphone (5- Astro MixAmp Pro Voice)
+[2020.12.12-03.34.44:856][751]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-03.34.44:856][751]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-03.34.44:856][751]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-03.34.44:856][751]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-03.34.44:867][751]LogInit: FAudioDevice initialized.
+[2020.12.12-03.34.44:885][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.34.44:885][751]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.34.44:887][751]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.34.44
+[2020.12.12-03.34.44:887][751]LogWorld: Bringing up level for play took: 0.001252
+[2020.12.12-03.34.44:887][751]LogOnline: OSS: Creating online subsystem instance for: :Context_143
+[2020.12.12-03.34.44:891][751]PIE: Server logged in
+[2020.12.12-03.34.44:893][751]PIE: Play in editor total start time 0.093 seconds.
+[2020.12.12-03.34.50:222][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.34.50:222][369]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.34.50:222][369]LogSlate: Window 'ArchiesAdventure Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.12-03.34.50:238][369]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.34.50:239][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.34.50:247][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-03.34.50:251][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.34.50:292][369]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000213441E0180), frame # 912369
+[2020.12.12-03.34.50:292][369]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002138293AE00), frame # 912369
+[2020.12.12-03.34.50:295][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.12.12-03.34.50:321][370]LogPlayLevel: Display: Destroying online subsystem :Context_143
+[2020.12.12-03.35.06:620][208]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Blueprints/Projectiles/Flip_hairball.Flip_hairball
+[2020.12.12-03.35.10:154][604]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.35.10:154][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.35.12:588][877]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Blueprints/Projectiles/hairball.hairball
+[2020.12.12-03.35.20:868][796]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Blueprints/Projectiles/hairball_Sprite_0.hairball_Sprite_0
+[2020.12.12-03.35.30:281][863]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.35.30:281][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.39.14:558][837]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.12.12-03.39.14:558][837]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.39.14:558][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.39.36:368][307]LogEditorViewport: Clicking on Actor (LMB): BP_EnemyCat_C (BP_EnemyCat)
+[2020.12.12-03.40.08:992][ 63]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Blueprints/Projectiles/Bone.Bone
+[2020.12.12-03.40.16:639][880]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.12.12-03.40.31:397][516]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.40.31:397][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.40.36:655][116]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.12.12-03.40.45:265][ 39]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.12-03.41.15:044][390]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.12.12-03.41.15:114][390]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.12.12-03.41.15:586][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/2DSideScrollerCharacter" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.12.12-03.41.15:626][425]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/2DSideScrollerCharacter832050BA45467565D60B2F9AF9AA5035.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/2DSideScrollerCharacter.uasset'
+[2020.12.12-03.41.15:642][425]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.12.12-03.41.15:642][425]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.12.12-03.41.16:663][525]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-03.41.16:677][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-03.41.16:677][525]PIE: New page: PIE session: Level_1 (Dec 11, 2020, 1:41:16 PM)
+[2020.12.12-03.41.16:677][525]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.41.16:679][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002108s)
+[2020.12.12-03.41.16:680][525]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.41.16:680][525]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002145AF91200), frame # 943525
+[2020.12.12-03.41.16:680][525]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002147C14C180), frame # 943525
+[2020.12.12-03.41.16:680][525]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2020.12.12-03.41.16:680][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.003060s)
+[2020.12.12-03.41.16:710][525]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.12.12-03.41.16:710][525]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-03.41.16:710][525]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-03.41.16:710][525]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-03.41.16:710][525]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-03.41.16:710][525]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-03.41.16:711][525]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-03.41.16:711][525]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-03.41.16:711][525]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-03.41.16:711][525]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-03.41.16:711][525]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-03.41.16:716][525]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-03.41.16:716][525]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-03.41.16:732][525]LogAudioMixer: Display: Using Audio Device Headset Earphone (5- Astro MixAmp Pro Voice)
+[2020.12.12-03.41.16:732][525]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-03.41.16:732][525]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-03.41.16:732][525]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-03.41.16:732][525]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-03.41.16:744][525]LogInit: FAudioDevice initialized.
+[2020.12.12-03.41.16:764][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.41.16:764][525]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.41.16:766][525]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.41.16
+[2020.12.12-03.41.16:766][525]LogWorld: Bringing up level for play took: 0.001514
+[2020.12.12-03.41.16:766][525]LogOnline: OSS: Creating online subsystem instance for: :Context_148
+[2020.12.12-03.41.16:772][525]PIE: Server logged in
+[2020.12.12-03.41.16:774][525]PIE: Play in editor total start time 0.097 seconds.
+[2020.12.12-03.41.19:597][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.41.19:597][840]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.41.19:598][840]LogSlate: Window 'ArchiesAdventure Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.12-03.41.19:606][840]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.41.19:607][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.41.19:632][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-03.41.19:636][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.41.19:676][840]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002147C14C180), frame # 943840
+[2020.12.12-03.41.19:676][840]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002145AF91200), frame # 943840
+[2020.12.12-03.41.19:679][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.12.12-03.41.19:734][841]LogPlayLevel: Display: Destroying online subsystem :Context_148
+[2020.12.12-03.41.48:205][979]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.41.48:205][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.41.52:082][395]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_bone.BP_Bone
+[2020.12.12-03.42.22:993][868]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.42.22:993][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.42.33:680][ 77]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Blueprints/Projectiles/Bone.Bone
+[2020.12.12-03.42.41:642][926]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.42.41:642][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.42.43:071][ 77]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.12.12-03.42.43:071][ 77]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.42.43:071][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.42.43:730][145]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.12.12-03.42.43:730][145]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.42.43:730][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.42.44:376][212]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.12.12-03.42.44:376][212]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.42.44:376][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.42.45:445][320]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Blueprints/Projectiles/Bone_Sprite.Bone_Sprite
+[2020.12.12-03.42.52:518][ 75]LogSlate: Window 'Bone_Sprite' being destroyed
+[2020.12.12-03.42.52:559][ 75]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.42.52:559][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.42.53:847][202]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Blueprints/Projectiles/Flip_bone.Flip_bone
+[2020.12.12-03.42.58:943][786]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.42.58:943][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.43.12:631][367]LogEditorViewport: Clicking on Actor (LMB): BP_EnemyCat_C (BP_EnemyCat)
+[2020.12.12-03.43.23:355][650]Cmd: TRANSACTION UNDO
+[2020.12.12-03.43.23:355][650]LogEditorTransaction: Undo Scale Actors
+[2020.12.12-03.43.36:353][140]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-03.43.36:367][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-03.43.36:367][140]PIE: New page: PIE session: Level_1 (Dec 11, 2020, 1:43:36 PM)
+[2020.12.12-03.43.36:393][140]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.43.36:395][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002417s)
+[2020.12.12-03.43.36:396][140]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.43.36:396][140]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002146A38DA00), frame # 959140
+[2020.12.12-03.43.36:396][140]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021473235E40), frame # 959140
+[2020.12.12-03.43.36:396][140]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2020.12.12-03.43.36:396][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.003362s)
+[2020.12.12-03.43.36:443][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.12.12-03.43.36:459][140]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-03.43.36:459][140]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-03.43.36:459][140]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-03.43.36:459][140]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-03.43.36:459][140]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-03.43.36:459][140]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-03.43.36:459][140]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-03.43.36:459][140]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-03.43.36:459][140]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-03.43.36:459][140]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-03.43.36:464][140]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-03.43.36:465][140]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-03.43.36:479][140]LogAudioMixer: Display: Using Audio Device Headset Earphone (5- Astro MixAmp Pro Voice)
+[2020.12.12-03.43.36:479][140]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-03.43.36:479][140]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-03.43.36:479][140]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-03.43.36:480][140]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-03.43.36:492][140]LogInit: FAudioDevice initialized.
+[2020.12.12-03.43.36:500][140]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.43.36:502][140]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.43.36
+[2020.12.12-03.43.36:502][140]LogWorld: Bringing up level for play took: 0.001247
+[2020.12.12-03.43.36:502][140]LogOnline: OSS: Creating online subsystem instance for: :Context_152
+[2020.12.12-03.43.36:505][140]PIE: Server logged in
+[2020.12.12-03.43.36:505][140]PIE: Play in editor total start time 0.139 seconds.
+[2020.12.12-03.43.39:093][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.43.39:093][445]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.43.39:094][445]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.43.39:094][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.43.39:106][445]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-03.43.39:109][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.43.39:141][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.43.39:149][445]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021473235E40), frame # 959445
+[2020.12.12-03.43.39:150][445]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002146A38DA00), frame # 959445
+[2020.12.12-03.43.39:163][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.12.12-03.43.39:191][446]LogPlayLevel: Display: Destroying online subsystem :Context_152
+[2020.12.12-03.43.40:726][626]Cmd: TRANSACTION UNDO
+[2020.12.12-03.43.40:726][626]LogEditorTransaction: Undo Move Actors
+[2020.12.12-03.43.41:252][651]Cmd: TRANSACTION UNDO
+[2020.12.12-03.43.41:252][651]LogEditorTransaction: Undo Scale Actors
+[2020.12.12-03.43.45:047][102]LogEditorViewport: Clicking on Actor (LMB): BP_Sprinkler_C (BP_Sprinkler)
+[2020.12.12-03.43.45:815][192]Cmd: DELETE
+[2020.12.12-03.43.45:815][192]Cmd: ACTOR DELETE
+[2020.12.12-03.43.45:817][192]LogEditorActor: Deleted Actor: BP_Sprinkler_C
+[2020.12.12-03.43.45:833][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.12.12-03.43.45:836][192]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2020.12.12-03.43.48:152][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.12.12-03.43.48:173][446]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Level_1A74463F6430BD1ADE14BFB8D242ABA53.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/Level_1.umap'
+[2020.12.12-03.43.48:205][446]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Level_1_BuiltDataEE826FCF44C2F8CEA6717288C0F3E9F6.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/Level_1_BuiltData.uasset'
+[2020.12.12-03.43.48:224][446]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.12-03.43.48:224][446]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/Level_1.Level_1
+[2020.12.12-03.43.48:224][446]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2020.12.12-03.43.59:077][654]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Sky)
+[2020.12.12-03.43.59:821][738]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Sky)
+[2020.12.12-03.44.01:235][903]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-03.44.01:249][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-03.44.01:249][903]PIE: New page: PIE session: Level_1 (Dec 11, 2020, 1:44:01 PM)
+[2020.12.12-03.44.01:249][903]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.44.01:251][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002144s)
+[2020.12.12-03.44.01:252][903]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.44.01:252][903]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002134AEF4600), frame # 961903
+[2020.12.12-03.44.01:252][903]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000213B21C4B80), frame # 961903
+[2020.12.12-03.44.01:252][903]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2020.12.12-03.44.01:252][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.002997s)
+[2020.12.12-03.44.01:270][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.12.12-03.44.01:274][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-03.44.01:274][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-03.44.01:274][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-03.44.01:274][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-03.44.01:274][903]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-03.44.01:274][903]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-03.44.01:274][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-03.44.01:274][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-03.44.01:274][903]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-03.44.01:275][903]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-03.44.01:280][903]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-03.44.01:280][903]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-03.44.01:293][903]LogAudioMixer: Display: Using Audio Device Headset Earphone (5- Astro MixAmp Pro Voice)
+[2020.12.12-03.44.01:294][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-03.44.01:294][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-03.44.01:294][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-03.44.01:294][903]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-03.44.01:306][903]LogInit: FAudioDevice initialized.
+[2020.12.12-03.44.01:312][903]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.44.01:313][903]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.44.01
+[2020.12.12-03.44.01:314][903]LogWorld: Bringing up level for play took: 0.001162
+[2020.12.12-03.44.01:314][903]LogOnline: OSS: Creating online subsystem instance for: :Context_153
+[2020.12.12-03.44.01:316][903]PIE: Server logged in
+[2020.12.12-03.44.01:317][903]PIE: Play in editor total start time 0.068 seconds.
+[2020.12.12-03.44.06:151][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.44.06:152][475]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.44.06:152][475]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.44.06:152][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.44.06:163][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-03.44.06:166][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.44.06:194][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.44.06:195][475]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000213B21C4B80), frame # 962475
+[2020.12.12-03.44.06:195][475]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002134AEF4600), frame # 962475
+[2020.12.12-03.44.06:197][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.12.12-03.44.06:224][476]LogPlayLevel: Display: Destroying online subsystem :Context_153
+[2020.12.12-03.44.28:105][969]LogEditorViewport: Clicking on Actor (LMB): BP_EnemyCat_C (BP_EnemyCat)
+[2020.12.12-03.45.55:661][109]LogEditorViewport: Clicking on Actor (LMB): BP_Sprinkler_C (BP_Sprinkler)
+[2020.12.12-03.45.56:825][242]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Spritesheet_TileMap)
+[2020.12.12-03.45.58:740][431]LogEditorFactories: Performing atomic reimport of [C:/Users/ferna/Downloads/Sprinkler.png]
+[2020.12.12-03.45.58:744][431]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/ferna/Downloads/Sprinkler.png)
+[2020.12.12-03.45.58:745][431]LogTexture: Display: Building textures: Sprinkler (BGRA8, 96X96)
+[2020.12.12-03.45.58:746][431]LogEditorFactories: -- imported successfully
+[2020.12.12-03.46.00:507][597]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-03.46.00:521][597]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-03.46.00:521][597]PIE: New page: PIE session: Level_1 (Dec 11, 2020, 1:46:00 PM)
+[2020.12.12-03.46.00:521][597]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.46.00:523][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002072s)
+[2020.12.12-03.46.00:524][597]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.46.00:524][597]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002145AD42A00), frame # 966597
+[2020.12.12-03.46.00:524][597]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000213473AFD80), frame # 966597
+[2020.12.12-03.46.00:524][597]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2020.12.12-03.46.00:524][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.002994s)
+[2020.12.12-03.46.00:541][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.12.12-03.46.00:549][597]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-03.46.00:549][597]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-03.46.00:549][597]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-03.46.00:549][597]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-03.46.00:549][597]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-03.46.00:549][597]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-03.46.00:549][597]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-03.46.00:549][597]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-03.46.00:549][597]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-03.46.00:549][597]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-03.46.00:554][597]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-03.46.00:554][597]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-03.46.00:569][597]LogAudioMixer: Display: Using Audio Device Headset Earphone (5- Astro MixAmp Pro Voice)
+[2020.12.12-03.46.00:570][597]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-03.46.00:570][597]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-03.46.00:570][597]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-03.46.00:570][597]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-03.46.00:582][597]LogInit: FAudioDevice initialized.
+[2020.12.12-03.46.00:591][597]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.46.00:593][597]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.46.00
+[2020.12.12-03.46.00:593][597]LogWorld: Bringing up level for play took: 0.001168
+[2020.12.12-03.46.00:593][597]LogOnline: OSS: Creating online subsystem instance for: :Context_154
+[2020.12.12-03.46.00:596][597]PIE: Server logged in
+[2020.12.12-03.46.00:597][597]PIE: Play in editor total start time 0.076 seconds.
+[2020.12.12-03.46.07:274][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.46.07:274][390]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.46.07:274][390]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.46.07:274][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.46.07:282][390]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-03.46.07:285][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.46.07:313][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.46.07:313][390]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000213473AFD80), frame # 967390
+[2020.12.12-03.46.07:313][390]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002145AD42A00), frame # 967390
+[2020.12.12-03.46.07:315][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.12.12-03.46.07:345][391]LogPlayLevel: Display: Destroying online subsystem :Context_154
+[2020.12.12-03.46.08:030][469]LogEditorViewport: Clicking on Actor (LMB): BP_Sprinkler_C (BP_Sprinkler)
+[2020.12.12-03.46.12:341][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.12.12-03.46.12:360][905]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Level_104BCED8E42CC6FD2B4DB619578E82A0A.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/Level_1.umap'
+[2020.12.12-03.46.12:392][905]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Level_1_BuiltData33FFC3314EF1250AEA30EBBE0E60444B.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/Level_1_BuiltData.uasset'
+[2020.12.12-03.46.12:420][905]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.12-03.46.12:420][905]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/Level_1.Level_1
+[2020.12.12-03.46.12:420][905]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2020.12.12-03.46.12:964][954]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-03.46.12:979][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-03.46.12:979][954]PIE: New page: PIE session: Level_1 (Dec 11, 2020, 1:46:12 PM)
+[2020.12.12-03.46.12:979][954]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.46.12:981][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002073s)
+[2020.12.12-03.46.12:982][954]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.46.12:982][954]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000213855D7400), frame # 967954
+[2020.12.12-03.46.12:982][954]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021386D81580), frame # 967954
+[2020.12.12-03.46.12:982][954]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2020.12.12-03.46.12:982][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.002993s)
+[2020.12.12-03.46.12:998][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.12.12-03.46.12:998][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-03.46.12:998][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-03.46.12:998][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-03.46.12:998][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-03.46.12:998][954]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-03.46.12:998][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-03.46.12:998][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-03.46.12:998][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-03.46.12:999][954]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-03.46.12:999][954]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-03.46.13:004][954]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-03.46.13:004][954]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-03.46.13:018][954]LogAudioMixer: Display: Using Audio Device Headset Earphone (5- Astro MixAmp Pro Voice)
+[2020.12.12-03.46.13:018][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-03.46.13:018][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-03.46.13:018][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-03.46.13:019][954]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-03.46.13:031][954]LogInit: FAudioDevice initialized.
+[2020.12.12-03.46.13:039][954]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.46.13:040][954]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.46.13
+[2020.12.12-03.46.13:040][954]LogWorld: Bringing up level for play took: 0.001165
+[2020.12.12-03.46.13:041][954]LogOnline: OSS: Creating online subsystem instance for: :Context_155
+[2020.12.12-03.46.13:043][954]PIE: Server logged in
+[2020.12.12-03.46.13:044][954]PIE: Play in editor total start time 0.066 seconds.
+[2020.12.12-03.46.24:464][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.46.24:464][319]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.46.24:464][319]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.46.24:465][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.46.24:471][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-03.46.24:474][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.46.24:502][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.46.24:502][319]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021386D81580), frame # 969319
+[2020.12.12-03.46.24:502][319]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000213855D7400), frame # 969319
+[2020.12.12-03.46.24:504][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.12.12-03.46.24:541][320]LogPlayLevel: Display: Destroying online subsystem :Context_155
+[2020.12.12-03.46.27:670][641]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Sprinkler.BP_Sprinkler
+[2020.12.12-03.46.50:903][144]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Blueprints/Projectiles/water_Flipbook.water_Flipbook
+[2020.12.12-03.46.52:889][357]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.46.52:889][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.47.00:392][170]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.47.00:392][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.47.09:866][173]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Blueprints/Sprinkler_Sprite.Sprinkler_Sprite
+[2020.12.12-03.47.11:770][359]LogSlate: Window 'Sprinkler_Sprite' being destroyed
+[2020.12.12-03.47.11:800][359]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.47.11:800][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.47.13:403][495]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Blueprints/Sprinkler_Sprite.Sprinkler_Sprite
+[2020.12.12-03.47.14:758][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Sprinkler_Sprite" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/Sprinkler_Sprite.uasset" SILENT=true
+[2020.12.12-03.47.14:764][599]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Sprinkler_Sprite23A47ED540DBA9835A7A2D9120AB34D3.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/Sprinkler_Sprite.uasset'
+[2020.12.12-03.47.14:811][599]AssetCheck: New page: Asset Save: Sprinkler_Sprite
+[2020.12.12-03.47.14:811][599]LogContentValidation: Display: Validating PaperSprite /Game/Blueprints/Sprinkler_Sprite.Sprinkler_Sprite
+[2020.12.12-03.47.15:374][658]LogSlate: Window 'Sprinkler_Sprite' being destroyed
+[2020.12.12-03.47.15:415][658]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.47.15:415][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.47.16:260][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.12.12-03.47.16:286][733]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Level_1CAFFFF634617CEF3693B3EBA1DEFC155.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/Level_1.umap'
+[2020.12.12-03.47.16:317][733]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Level_1_BuiltData19E1FFD74E1D88B42DC05B8E85B495DC.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/Level_1_BuiltData.uasset'
+[2020.12.12-03.47.16:337][733]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.12-03.47.16:338][733]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/Level_1.Level_1
+[2020.12.12-03.47.16:338][733]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2020.12.12-03.47.17:407][840]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Blueprints/Sprinkler.Sprinkler
+[2020.12.12-03.47.18:600][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Sprinkler" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/Sprinkler.uasset" SILENT=true
+[2020.12.12-03.47.18:612][921]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Sprinkler0F16376F407129A4DF2F48BF2A1BB565.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/Sprinkler.uasset'
+[2020.12.12-03.47.18:651][921]AssetCheck: New page: Asset Save: Sprinkler
+[2020.12.12-03.47.18:651][921]LogContentValidation: Display: Validating Texture2D /Game/Blueprints/Sprinkler.Sprinkler
+[2020.12.12-03.47.19:087][969]LogSlate: Window 'Sprinkler' being destroyed
+[2020.12.12-03.47.20:110][ 62]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Blueprints/EnemyCat_Sprite.EnemyCat_Sprite
+[2020.12.12-03.47.21:294][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyCat_Sprite" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/EnemyCat_Sprite.uasset" SILENT=true
+[2020.12.12-03.47.21:299][143]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/EnemyCat_SpriteE1B574C04998BCF426FEF2878D69B750.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/EnemyCat_Sprite.uasset'
+[2020.12.12-03.47.21:334][143]AssetCheck: New page: Asset Save: EnemyCat_Sprite
+[2020.12.12-03.47.21:334][143]LogContentValidation: Display: Validating PaperSprite /Game/Blueprints/EnemyCat_Sprite.EnemyCat_Sprite
+[2020.12.12-03.47.22:032][221]LogSlate: Window 'EnemyCat_Sprite' being destroyed
+[2020.12.12-03.47.22:072][221]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.47.22:072][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.47.22:978][308]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Blueprints/EnemyCat.EnemyCat
+[2020.12.12-03.47.24:584][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyCat" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/EnemyCat.uasset" SILENT=true
+[2020.12.12-03.47.24:590][433]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/EnemyCatA10165F0483178A19818BCAA888E24A4.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/EnemyCat.uasset'
+[2020.12.12-03.47.24:629][433]AssetCheck: New page: Asset Save: EnemyCat
+[2020.12.12-03.47.24:629][433]LogContentValidation: Display: Validating Texture2D /Game/Blueprints/EnemyCat.EnemyCat
+[2020.12.12-03.47.25:171][490]LogSlate: Window 'EnemyCat' being destroyed
+[2020.12.12-03.47.37:812][930]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Sprinkler.BP_Sprinkler
+[2020.12.12-03.47.40:105][120]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Water.BP_Water
+[2020.12.12-03.47.53:022][474]BlueprintLog: New page: Compile BP_Water
+[2020.12.12-03.47.53:065][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.12.12-03.47.53:851][539]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-03.47.53:866][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-03.47.53:866][539]PIE: New page: PIE session: Level_1 (Dec 11, 2020, 1:47:53 PM)
+[2020.12.12-03.47.53:866][539]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.47.53:868][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002114s)
+[2020.12.12-03.47.53:869][539]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.47.53:869][539]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000213B537AC00), frame # 978539
+[2020.12.12-03.47.53:869][539]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021346B12200), frame # 978539
+[2020.12.12-03.47.53:869][539]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2020.12.12-03.47.53:869][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.003031s)
+[2020.12.12-03.47.53:890][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.12.12-03.47.53:891][539]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-03.47.53:891][539]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-03.47.53:891][539]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-03.47.53:891][539]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-03.47.53:891][539]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-03.47.53:891][539]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-03.47.53:891][539]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-03.47.53:891][539]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-03.47.53:892][539]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-03.47.53:892][539]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-03.47.53:897][539]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-03.47.53:897][539]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-03.47.53:912][539]LogAudioMixer: Display: Using Audio Device Headset Earphone (5- Astro MixAmp Pro Voice)
+[2020.12.12-03.47.53:912][539]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-03.47.53:912][539]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-03.47.53:912][539]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-03.47.53:912][539]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-03.47.53:924][539]LogInit: FAudioDevice initialized.
+[2020.12.12-03.47.53:947][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.47.53:947][539]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.47.53:949][539]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.47.53
+[2020.12.12-03.47.53:950][539]LogWorld: Bringing up level for play took: 0.001551
+[2020.12.12-03.47.53:950][539]LogOnline: OSS: Creating online subsystem instance for: :Context_163
+[2020.12.12-03.47.53:954][539]PIE: Server logged in
+[2020.12.12-03.47.53:955][539]PIE: Play in editor total start time 0.089 seconds.
+[2020.12.12-03.48.03:160][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.48.03:160][618]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.48.03:160][618]LogSlate: Window 'ArchiesAdventure Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.12-03.48.03:169][618]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.48.03:169][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.48.03:173][618]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-03.48.03:175][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.48.03:209][618]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021346B12200), frame # 979618
+[2020.12.12-03.48.03:209][618]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000213B537AC00), frame # 979618
+[2020.12.12-03.48.03:211][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.12.12-03.48.03:233][619]LogPlayLevel: Display: Destroying online subsystem :Context_163
+[2020.12.12-03.48.18:686][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Water" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Water.uasset" SILENT=true
+[2020.12.12-03.48.18:721][281]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/BP_Water0A67E62545E7DC20F1638592D1C04E4A.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Water.uasset'
+[2020.12.12-03.48.18:744][281]AssetCheck: New page: Asset Save: BP_Water
+[2020.12.12-03.48.18:744][281]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Water.BP_Water
+[2020.12.12-03.48.19:075][319]BlueprintLog: New page: Compile BP_Water
+[2020.12.12-03.48.19:117][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.12.12-03.48.20:063][425]BlueprintLog: New page: Compile BP_Water
+[2020.12.12-03.48.20:097][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.12.12-03.49.08:113][ 61]LogEditorTransaction: Undo Modify Component(s)
+[2020.12.12-03.49.17:612][143]BlueprintLog: New page: Compile BP_Sprinkler
+[2020.12.12-03.49.17:676][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.12.12-03.49.18:208][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Sprinkler" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Sprinkler.uasset" SILENT=true
+[2020.12.12-03.49.18:233][191]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/BP_SprinklerDB04405340C5B1C40A720591A217A263.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Sprinkler.uasset'
+[2020.12.12-03.49.18:246][191]AssetCheck: New page: Asset Save: BP_Sprinkler
+[2020.12.12-03.49.18:246][191]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Sprinkler.BP_Sprinkler
+[2020.12.12-03.49.18:630][236]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-03.49.18:646][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-03.49.18:646][236]PIE: New page: PIE session: Level_1 (Dec 11, 2020, 1:49:18 PM)
+[2020.12.12-03.49.18:646][236]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.49.18:648][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002096s)
+[2020.12.12-03.49.18:648][236]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.49.18:648][236]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000213FADA6000), frame # 988236
+[2020.12.12-03.49.18:649][236]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021321B52840), frame # 988236
+[2020.12.12-03.49.18:649][236]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2020.12.12-03.49.18:649][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.002954s)
+[2020.12.12-03.49.18:670][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.12.12-03.49.18:671][236]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-03.49.18:671][236]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-03.49.18:671][236]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-03.49.18:671][236]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-03.49.18:671][236]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-03.49.18:671][236]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-03.49.18:671][236]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-03.49.18:671][236]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-03.49.18:672][236]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-03.49.18:672][236]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-03.49.18:677][236]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-03.49.18:677][236]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-03.49.18:691][236]LogAudioMixer: Display: Using Audio Device Headset Earphone (5- Astro MixAmp Pro Voice)
+[2020.12.12-03.49.18:691][236]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-03.49.18:691][236]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-03.49.18:691][236]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-03.49.18:691][236]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-03.49.18:703][236]LogInit: FAudioDevice initialized.
+[2020.12.12-03.49.18:723][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.49.18:723][236]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.49.18:725][236]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.49.18
+[2020.12.12-03.49.18:725][236]LogWorld: Bringing up level for play took: 0.001513
+[2020.12.12-03.49.18:725][236]LogOnline: OSS: Creating online subsystem instance for: :Context_164
+[2020.12.12-03.49.18:730][236]PIE: Server logged in
+[2020.12.12-03.49.18:731][236]PIE: Play in editor total start time 0.086 seconds.
+[2020.12.12-03.49.39:066][657]Cmd: RestartLevel
+[2020.12.12-03.49.39:074][658]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Level_1?restart
+[2020.12.12-03.49.39:074][658]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Level_1
+[2020.12.12-03.49.39:074][658]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.49.39:074][658]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.49.39:075][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.49.39:116][658]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021321B52840), frame # 990658
+[2020.12.12-03.49.39:116][658]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000213FADA6000), frame # 990658
+[2020.12.12-03.49.39:118][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.12.12-03.49.39:121][658]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.49.39:123][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002116s)
+[2020.12.12-03.49.39:124][658]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.49.39:124][658]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021438628200), frame # 990658
+[2020.12.12-03.49.39:124][658]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021438325440), frame # 990658
+[2020.12.12-03.49.39:124][658]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2020.12.12-03.49.39:124][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.002997s)
+[2020.12.12-03.49.39:124][658]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.49.39:125][658]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.49.39
+[2020.12.12-03.49.39:125][658]LogWorld: Bringing up level for play took: 0.000847
+[2020.12.12-03.49.39:127][658]LogLoad: Took 0.053029 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1)
+[2020.12.12-03.49.40:697][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.49.40:697][840]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.49.40:698][840]LogSlate: Window 'ArchiesAdventure Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.12-03.49.40:710][840]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.49.40:710][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.49.40:717][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-03.49.40:719][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.49.40:754][840]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021438325440), frame # 990840
+[2020.12.12-03.49.40:754][840]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021438628200), frame # 990840
+[2020.12.12-03.49.40:756][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.12.12-03.49.40:782][841]LogPlayLevel: Display: Destroying online subsystem :Context_164
+[2020.12.12-03.49.46:267][419]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.49.46:267][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.49.52:471][ 59]BlueprintLog: New page: Compile BP_Sprinkler
+[2020.12.12-03.49.52:508][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.12.12-03.49.53:041][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Sprinkler" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Sprinkler.uasset" SILENT=true
+[2020.12.12-03.49.53:061][111]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/BP_Sprinkler5474381046CDFCBEA7CDE5B3C367DA39.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Sprinkler.uasset'
+[2020.12.12-03.49.53:077][111]AssetCheck: New page: Asset Save: BP_Sprinkler
+[2020.12.12-03.49.53:077][111]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Sprinkler.BP_Sprinkler
+[2020.12.12-03.49.54:845][307]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-03.49.54:860][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-03.49.54:860][307]PIE: New page: PIE session: Level_1 (Dec 11, 2020, 1:49:54 PM)
+[2020.12.12-03.49.54:860][307]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.49.54:862][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002051s)
+[2020.12.12-03.49.54:863][307]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.49.54:863][307]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000213855D5C00), frame # 992307
+[2020.12.12-03.49.54:863][307]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002140CBB2480), frame # 992307
+[2020.12.12-03.49.54:863][307]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2020.12.12-03.49.54:863][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.002905s)
+[2020.12.12-03.49.54:882][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.12.12-03.49.54:883][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-03.49.54:883][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-03.49.54:883][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-03.49.54:883][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-03.49.54:883][307]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-03.49.54:883][307]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-03.49.54:883][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-03.49.54:883][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-03.49.54:884][307]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-03.49.54:884][307]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-03.49.54:889][307]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-03.49.54:889][307]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-03.49.54:903][307]LogAudioMixer: Display: Using Audio Device Headset Earphone (5- Astro MixAmp Pro Voice)
+[2020.12.12-03.49.54:903][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-03.49.54:903][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-03.49.54:903][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-03.49.54:903][307]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-03.49.54:916][307]LogInit: FAudioDevice initialized.
+[2020.12.12-03.49.54:923][307]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.49.54:924][307]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.49.54
+[2020.12.12-03.49.54:925][307]LogWorld: Bringing up level for play took: 0.001159
+[2020.12.12-03.49.54:925][307]LogOnline: OSS: Creating online subsystem instance for: :Context_165
+[2020.12.12-03.49.54:927][307]PIE: Server logged in
+[2020.12.12-03.49.54:928][307]PIE: Play in editor total start time 0.069 seconds.
+[2020.12.12-03.50.01:276][ 68]Cmd: RestartLevel
+[2020.12.12-03.50.01:284][ 69]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Level_1?restart
+[2020.12.12-03.50.01:284][ 69]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Level_1
+[2020.12.12-03.50.01:285][ 69]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.50.01:285][ 69]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.50.01:285][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.50.01:353][ 69]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002140CBB2480), frame # 993069
+[2020.12.12-03.50.01:353][ 69]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000213855D5C00), frame # 993069
+[2020.12.12-03.50.01:355][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.12.12-03.50.01:356][ 69]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.50.01:359][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002093s)
+[2020.12.12-03.50.01:359][ 69]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.50.01:359][ 69]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021396257800), frame # 993069
+[2020.12.12-03.50.01:359][ 69]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021383346200), frame # 993069
+[2020.12.12-03.50.01:359][ 69]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2020.12.12-03.50.01:359][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.002979s)
+[2020.12.12-03.50.01:359][ 69]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.50.01:361][ 69]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.50.01
+[2020.12.12-03.50.01:361][ 69]LogWorld: Bringing up level for play took: 0.000884
+[2020.12.12-03.50.01:363][ 69]LogLoad: Took 0.078164 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1)
+[2020.12.12-03.50.13:346][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.50.13:346][502]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.50.13:346][502]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.50.13:346][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.50.13:356][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-03.50.13:359][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.50.13:390][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.50.13:391][502]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021383346200), frame # 994502
+[2020.12.12-03.50.13:391][502]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021396257800), frame # 994502
+[2020.12.12-03.50.13:392][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.12.12-03.50.13:423][503]LogPlayLevel: Display: Destroying online subsystem :Context_165
+[2020.12.12-03.50.30:713][555]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-03.50.30:728][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-03.50.30:728][555]PIE: New page: PIE session: Level_1 (Dec 11, 2020, 1:50:30 PM)
+[2020.12.12-03.50.30:728][555]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.50.30:730][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002088s)
+[2020.12.12-03.50.30:731][555]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.50.30:731][555]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021429D76C00), frame # 996555
+[2020.12.12-03.50.30:731][555]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021426FEAFC0), frame # 996555
+[2020.12.12-03.50.30:731][555]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2020.12.12-03.50.30:731][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.002954s)
+[2020.12.12-03.50.30:749][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.12.12-03.50.30:752][555]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-03.50.30:752][555]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-03.50.30:752][555]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-03.50.30:752][555]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-03.50.30:752][555]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-03.50.30:752][555]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-03.50.30:752][555]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-03.50.30:752][555]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-03.50.30:752][555]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-03.50.30:752][555]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-03.50.30:757][555]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-03.50.30:757][555]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-03.50.30:771][555]LogAudioMixer: Display: Using Audio Device Headset Earphone (5- Astro MixAmp Pro Voice)
+[2020.12.12-03.50.30:771][555]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-03.50.30:771][555]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-03.50.30:771][555]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-03.50.30:772][555]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-03.50.30:784][555]LogInit: FAudioDevice initialized.
+[2020.12.12-03.50.30:789][555]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.50.30:790][555]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.50.30
+[2020.12.12-03.50.30:790][555]LogWorld: Bringing up level for play took: 0.001134
+[2020.12.12-03.50.30:790][555]LogOnline: OSS: Creating online subsystem instance for: :Context_166
+[2020.12.12-03.50.30:793][555]PIE: Server logged in
+[2020.12.12-03.50.30:794][555]PIE: Play in editor total start time 0.066 seconds.
+[2020.12.12-03.50.38:094][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.50.38:094][426]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.50.38:094][426]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.50.38:095][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.50.38:101][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-03.50.38:104][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.50.38:121][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.50.38:136][426]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021426FEAFC0), frame # 997426
+[2020.12.12-03.50.38:136][426]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021429D76C00), frame # 997426
+[2020.12.12-03.50.38:138][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.12.12-03.50.38:169][427]LogPlayLevel: Display: Destroying online subsystem :Context_166
+[2020.12.12-03.50.39:718][591]LogEditorViewport: Clicking on Actor (LMB): BP_Spikes_C (Spikes)
+[2020.12.12-03.50.45:242][251]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Spritesheet_TileMap)
+[2020.12.12-03.50.45:793][312]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Sky)
+[2020.12.12-03.50.47:830][534]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Spikes.BP_Spikes
+[2020.12.12-03.51.15:576][753]BlueprintLog: New page: Compile BP_Spikes
+[2020.12.12-03.51.15:615][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.12.12-03.51.16:383][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spikes" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Spikes.uasset" SILENT=true
+[2020.12.12-03.51.16:401][829]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/BP_Spikes037FD7FB4DEDCF81503A3B869880AEDB.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Spikes.uasset'
+[2020.12.12-03.51.16:428][829]AssetCheck: New page: Asset Save: BP_Spikes
+[2020.12.12-03.51.16:428][829]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spikes.BP_Spikes
+[2020.12.12-03.51.17:118][896]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-03.51.17:132][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-03.51.17:133][896]PIE: New page: PIE session: Level_1 (Dec 11, 2020, 1:51:17 PM)
+[2020.12.12-03.51.17:133][896]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.51.17:135][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002579s)
+[2020.12.12-03.51.17:136][896]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.51.17:136][896]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000213BE475000), frame # 1001896
+[2020.12.12-03.51.17:136][896]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000213837B6D40), frame # 1001896
+[2020.12.12-03.51.17:136][896]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2020.12.12-03.51.17:136][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.003498s)
+[2020.12.12-03.51.17:158][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.12.12-03.51.17:159][896]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-03.51.17:159][896]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-03.51.17:159][896]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-03.51.17:159][896]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-03.51.17:159][896]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-03.51.17:159][896]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-03.51.17:160][896]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-03.51.17:160][896]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-03.51.17:160][896]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-03.51.17:160][896]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-03.51.17:165][896]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-03.51.17:165][896]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-03.51.17:181][896]LogAudioMixer: Display: Using Audio Device Headset Earphone (5- Astro MixAmp Pro Voice)
+[2020.12.12-03.51.17:181][896]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-03.51.17:181][896]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-03.51.17:181][896]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-03.51.17:181][896]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-03.51.17:193][896]LogInit: FAudioDevice initialized.
+[2020.12.12-03.51.17:218][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.51.17:218][896]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.51.17:220][896]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.51.17
+[2020.12.12-03.51.17:220][896]LogWorld: Bringing up level for play took: 0.001417
+[2020.12.12-03.51.17:220][896]LogOnline: OSS: Creating online subsystem instance for: :Context_168
+[2020.12.12-03.51.17:225][896]PIE: Server logged in
+[2020.12.12-03.51.17:225][896]PIE: Play in editor total start time 0.093 seconds.
+[2020.12.12-03.51.27:409][ 97]Cmd: RestartLevel
+[2020.12.12-03.51.27:417][ 98]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Level_1?restart
+[2020.12.12-03.51.27:417][ 98]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Level_1
+[2020.12.12-03.51.27:417][ 98]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.51.27:417][ 98]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.51.27:418][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.51.27:483][ 98]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000213837B6D40), frame # 1003098
+[2020.12.12-03.51.27:483][ 98]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000213BE475000), frame # 1003098
+[2020.12.12-03.51.27:484][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.12.12-03.51.27:486][ 98]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.51.27:488][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002126s)
+[2020.12.12-03.51.27:489][ 98]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.51.27:489][ 98]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021460413A00), frame # 1003098
+[2020.12.12-03.51.27:489][ 98]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000213837B5E40), frame # 1003098
+[2020.12.12-03.51.27:489][ 98]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2020.12.12-03.51.27:489][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.003008s)
+[2020.12.12-03.51.27:489][ 98]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.51.27:491][ 98]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.51.27
+[2020.12.12-03.51.27:491][ 98]LogWorld: Bringing up level for play took: 0.001021
+[2020.12.12-03.51.27:493][ 98]LogLoad: Took 0.075565 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1)
+[2020.12.12-03.51.31:944][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.51.31:944][623]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.51.31:944][623]LogSlate: Window 'ArchiesAdventure Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.12-03.51.31:954][623]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.51.31:954][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.51.31:964][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-03.51.31:967][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.51.32:002][623]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000213837B5E40), frame # 1003623
+[2020.12.12-03.51.32:002][623]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021460413A00), frame # 1003623
+[2020.12.12-03.51.32:004][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.12.12-03.51.32:029][624]LogPlayLevel: Display: Destroying online subsystem :Context_168
+[2020.12.12-03.52.21:626][464]BlueprintLog: New page: Compile BP_Spikes
+[2020.12.12-03.52.21:688][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.12.12-03.52.28:013][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spikes" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Spikes.uasset" SILENT=true
+[2020.12.12-03.52.28:028][110]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/BP_Spikes08777E184A789734A15803A4CBC55670.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Spikes.uasset'
+[2020.12.12-03.52.28:046][110]AssetCheck: New page: Asset Save: BP_Spikes
+[2020.12.12-03.52.28:046][110]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spikes.BP_Spikes
+[2020.12.12-03.52.28:691][178]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-03.52.28:705][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-03.52.28:705][178]PIE: New page: PIE session: Level_1 (Dec 11, 2020, 1:52:28 PM)
+[2020.12.12-03.52.28:706][178]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.52.28:708][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002129s)
+[2020.12.12-03.52.28:708][178]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.52.28:708][178]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000213FECBBE00), frame # 1010178
+[2020.12.12-03.52.28:708][178]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021384504680), frame # 1010178
+[2020.12.12-03.52.28:709][178]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2020.12.12-03.52.28:709][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.003028s)
+[2020.12.12-03.52.28:730][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.12.12-03.52.28:732][178]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-03.52.28:732][178]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-03.52.28:732][178]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-03.52.28:732][178]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-03.52.28:732][178]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-03.52.28:732][178]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-03.52.28:732][178]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-03.52.28:732][178]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-03.52.28:733][178]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-03.52.28:733][178]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-03.52.28:738][178]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-03.52.28:738][178]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-03.52.28:753][178]LogAudioMixer: Display: Using Audio Device Headset Earphone (5- Astro MixAmp Pro Voice)
+[2020.12.12-03.52.28:753][178]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-03.52.28:753][178]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-03.52.28:753][178]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-03.52.28:753][178]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-03.52.28:765][178]LogInit: FAudioDevice initialized.
+[2020.12.12-03.52.28:784][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.52.28:784][178]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.52.28:786][178]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.52.28
+[2020.12.12-03.52.28:786][178]LogWorld: Bringing up level for play took: 0.001489
+[2020.12.12-03.52.28:786][178]LogOnline: OSS: Creating online subsystem instance for: :Context_169
+[2020.12.12-03.52.28:791][178]PIE: Server logged in
+[2020.12.12-03.52.28:792][178]PIE: Play in editor total start time 0.087 seconds.
+[2020.12.12-03.52.39:111][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.52.39:111][395]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.52.39:112][395]LogSlate: Window 'ArchiesAdventure Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.12-03.52.39:119][395]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.52.39:120][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.52.39:129][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-03.52.39:132][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.52.39:166][395]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021384504680), frame # 1011395
+[2020.12.12-03.52.39:166][395]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000213FECBBE00), frame # 1011395
+[2020.12.12-03.52.39:168][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.12.12-03.52.39:196][396]LogPlayLevel: Display: Destroying online subsystem :Context_169
+[2020.12.12-03.53.06:366][523]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2020.12.12-03.53.06:366][523]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Spikes_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2020.12.12-03.53.06:366][523]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2020.12.12-03.53.06:374][524]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2020.12.12-03.53.07:832][699]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2020.12.12-03.53.07:833][699]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Spikes_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2020.12.12-03.53.07:833][699]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2020.12.12-03.53.07:841][700]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2020.12.12-03.53.36:310][109]LogEditorTransaction: Undo Modify Component(s)
+[2020.12.12-03.53.36:602][128]LogEditorTransaction: Undo Modify Component(s)
+[2020.12.12-03.53.36:836][133]LogEditorTransaction: Undo Modify Component(s)
+[2020.12.12-03.53.37:105][164]LogEditorTransaction: Undo Modify Component(s)
+[2020.12.12-03.53.37:413][200]LogEditorTransaction: Undo Modify Component(s)
+[2020.12.12-03.53.37:718][236]LogEditorTransaction: Undo Modify Component(s)
+[2020.12.12-03.53.38:106][282]LogEditorTransaction: Undo Modify Component(s)
+[2020.12.12-03.53.38:443][322]LogEditorTransaction: Undo Modify Component(s)
+[2020.12.12-03.53.38:846][370]LogEditorTransaction: Undo Modify Component(s)
+[2020.12.12-03.53.39:225][415]LogEditorTransaction: Undo Modify Component(s)
+[2020.12.12-03.53.39:586][458]LogEditorTransaction: Undo Modify Component(s)
+[2020.12.12-03.53.39:923][498]LogEditorTransaction: Undo Modify Component(s)
+[2020.12.12-03.53.40:402][555]LogEditorTransaction: Undo Modify Component(s)
+[2020.12.12-03.53.40:798][602]LogEditorTransaction: Undo Set Rotation
+[2020.12.12-03.53.41:155][644]LogEditorTransaction: Undo Modify Component(s)
+[2020.12.12-03.53.45:532][162]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2020.12.12-03.53.45:532][162]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Spikes_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2020.12.12-03.53.45:532][162]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2020.12.12-03.53.45:541][163]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2020.12.12-03.53.47:299][374]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2020.12.12-03.53.47:299][374]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Spikes_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2020.12.12-03.53.47:299][374]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2020.12.12-03.53.47:307][375]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2020.12.12-03.53.51:876][922]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.53.51:877][922]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Spikes_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.53.51:877][922]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.53.51:885][923]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.54.01:205][ 21]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.54.01:206][ 21]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Spikes_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.54.01:206][ 21]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.54.01:213][ 22]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.54.01:222][ 23]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.54.01:230][ 24]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.54.01:238][ 25]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.54.01:246][ 26]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.54.01:255][ 27]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.54.01:263][ 28]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.54.01:271][ 29]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.54.01:280][ 30]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.54.01:288][ 31]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.54.01:297][ 32]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.54.01:305][ 33]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.54.01:313][ 34]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.54.01:321][ 35]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.54.01:330][ 36]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.54.01:338][ 37]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.54.01:347][ 38]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.54.01:355][ 39]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.156 Y=0.000 Z=0.688
+[2020.12.12-03.54.04:100][368]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.04:100][368]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Spikes_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.04:100][368]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.04:108][369]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.04:116][370]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.04:124][371]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.04:133][372]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.04:141][373]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.04:150][374]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.04:158][375]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.04:975][473]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.04:975][473]LogPhysics: Warning: Scale for /Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Spikes_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.04:975][473]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.04:983][474]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.04:991][475]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:000][476]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:008][477]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:016][478]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:024][479]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:033][480]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:041][481]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:049][482]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:058][483]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:066][484]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:074][485]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:083][486]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:091][487]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:099][488]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:108][489]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:116][490]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:124][491]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:133][492]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:141][493]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:149][494]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:158][495]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:166][496]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:174][497]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:183][498]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:191][499]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:199][500]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:208][501]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:216][502]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:224][503]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:233][504]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:241][505]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.05:250][506]LogPhysics: Warning: Scale for /Engine/Transient.World_39:PersistentLevel.BP_Spikes_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.031 Z=0.688
+[2020.12.12-03.54.20:237][286]BlueprintLog: New page: Compile BP_Spikes
+[2020.12.12-03.54.20:409][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.12.12-03.54.20:773][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spikes" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Spikes.uasset" SILENT=true
+[2020.12.12-03.54.20:787][317]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/BP_Spikes03F769204A99AA76F5EEF5A37D26847F.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Spikes.uasset'
+[2020.12.12-03.54.20:800][317]AssetCheck: New page: Asset Save: BP_Spikes
+[2020.12.12-03.54.20:800][317]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spikes.BP_Spikes
+[2020.12.12-03.54.21:560][393]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-03.54.21:574][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-03.54.21:574][393]PIE: New page: PIE session: Level_1 (Dec 11, 2020, 1:54:21 PM)
+[2020.12.12-03.54.21:574][393]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.54.21:576][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002074s)
+[2020.12.12-03.54.21:577][393]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.54.21:577][393]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000213CA607800), frame # 1023393
+[2020.12.12-03.54.21:577][393]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021438CD8F40), frame # 1023393
+[2020.12.12-03.54.21:577][393]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2020.12.12-03.54.21:577][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.002920s)
+[2020.12.12-03.54.21:598][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.12.12-03.54.21:599][393]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-03.54.21:599][393]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-03.54.21:599][393]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-03.54.21:599][393]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-03.54.21:599][393]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-03.54.21:599][393]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-03.54.21:599][393]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-03.54.21:599][393]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-03.54.21:599][393]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-03.54.21:599][393]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-03.54.21:604][393]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-03.54.21:604][393]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-03.54.21:620][393]LogAudioMixer: Display: Using Audio Device Headset Earphone (5- Astro MixAmp Pro Voice)
+[2020.12.12-03.54.21:620][393]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-03.54.21:620][393]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-03.54.21:620][393]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-03.54.21:620][393]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-03.54.21:632][393]LogInit: FAudioDevice initialized.
+[2020.12.12-03.54.21:654][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.54.21:655][393]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.54.21:656][393]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.54.21
+[2020.12.12-03.54.21:657][393]LogWorld: Bringing up level for play took: 0.001373
+[2020.12.12-03.54.21:657][393]LogOnline: OSS: Creating online subsystem instance for: :Context_170
+[2020.12.12-03.54.21:661][393]PIE: Server logged in
+[2020.12.12-03.54.21:662][393]PIE: Play in editor total start time 0.089 seconds.
+[2020.12.12-03.54.35:125][991]Cmd: RestartLevel
+[2020.12.12-03.54.35:133][992]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Level_1?restart
+[2020.12.12-03.54.35:133][992]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Level_1
+[2020.12.12-03.54.35:133][992]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.54.35:133][992]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.54.35:133][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.54.35:176][992]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021438CD8F40), frame # 1024992
+[2020.12.12-03.54.35:176][992]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000213CA607800), frame # 1024992
+[2020.12.12-03.54.35:178][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.12.12-03.54.35:180][992]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.54.35:183][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002157s)
+[2020.12.12-03.54.35:183][992]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.54.35:183][992]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021383FEF600), frame # 1024992
+[2020.12.12-03.54.35:183][992]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021438CD9D00), frame # 1024992
+[2020.12.12-03.54.35:183][992]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2020.12.12-03.54.35:183][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.003038s)
+[2020.12.12-03.54.35:184][992]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.54.35:185][992]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.54.35
+[2020.12.12-03.54.35:185][992]LogWorld: Bringing up level for play took: 0.000879
+[2020.12.12-03.54.35:187][992]LogLoad: Took 0.053918 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1)
+[2020.12.12-03.54.35:307][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.54.35:307][  1]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.54.35:308][  1]LogSlate: Window 'ArchiesAdventure Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.12-03.54.35:333][  1]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.54.35:333][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.54.35:340][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-03.54.35:343][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.54.35:379][  1]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021438CD9D00), frame # 1025001
+[2020.12.12-03.54.35:379][  1]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021383FEF600), frame # 1025001
+[2020.12.12-03.54.35:381][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.12.12-03.54.35:402][  2]LogPlayLevel: Display: Destroying online subsystem :Context_170
+[2020.12.12-03.54.41:008][615]BlueprintLog: New page: Compile BP_Spikes
+[2020.12.12-03.54.41:039][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.12.12-03.54.41:424][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spikes" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Spikes.uasset" SILENT=true
+[2020.12.12-03.54.41:438][652]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/BP_SpikesB3A651BB46151387FB434CA64CCFD6DE.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Spikes.uasset'
+[2020.12.12-03.54.41:459][652]AssetCheck: New page: Asset Save: BP_Spikes
+[2020.12.12-03.54.41:459][652]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spikes.BP_Spikes
+[2020.12.12-03.54.50:274][640]BlueprintLog: New page: Compile BP_Spikes
+[2020.12.12-03.54.50:307][640]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.12.12-03.54.51:045][710]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-03.54.51:058][710]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-03.54.51:058][710]PIE: New page: PIE session: Level_1 (Dec 11, 2020, 1:54:51 PM)
+[2020.12.12-03.54.51:059][710]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.54.51:061][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002051s)
+[2020.12.12-03.54.51:061][710]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.54.51:061][710]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000214737C7800), frame # 1026710
+[2020.12.12-03.54.51:061][710]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000213208E1A80), frame # 1026710
+[2020.12.12-03.54.51:061][710]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2020.12.12-03.54.51:061][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.002887s)
+[2020.12.12-03.54.51:082][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.12.12-03.54.51:083][710]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-03.54.51:083][710]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-03.54.51:083][710]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-03.54.51:083][710]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-03.54.51:083][710]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-03.54.51:083][710]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-03.54.51:083][710]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-03.54.51:083][710]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-03.54.51:083][710]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-03.54.51:083][710]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-03.54.51:089][710]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-03.54.51:089][710]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-03.54.51:104][710]LogAudioMixer: Display: Using Audio Device Headset Earphone (5- Astro MixAmp Pro Voice)
+[2020.12.12-03.54.51:104][710]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-03.54.51:104][710]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-03.54.51:104][710]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-03.54.51:105][710]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-03.54.51:117][710]LogInit: FAudioDevice initialized.
+[2020.12.12-03.54.51:132][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.54.51:133][710]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.54.51:134][710]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.54.51
+[2020.12.12-03.54.51:134][710]LogWorld: Bringing up level for play took: 0.001346
+[2020.12.12-03.54.51:135][710]LogOnline: OSS: Creating online subsystem instance for: :Context_171
+[2020.12.12-03.54.51:138][710]PIE: Server logged in
+[2020.12.12-03.54.51:139][710]PIE: Play in editor total start time 0.081 seconds.
+[2020.12.12-03.55.04:987][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.55.04:987][349]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.55.04:988][349]LogSlate: Window 'ArchiesAdventure Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.12-03.55.05:011][349]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.55.05:011][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.55.05:016][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-03.55.05:019][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.55.05:053][349]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000213208E1A80), frame # 1028349
+[2020.12.12-03.55.05:053][349]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000214737C7800), frame # 1028349
+[2020.12.12-03.55.05:055][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.12.12-03.55.05:077][350]LogPlayLevel: Display: Destroying online subsystem :Context_171
+[2020.12.12-03.55.49:117][246]BlueprintLog: New page: Compile BP_Spikes
+[2020.12.12-03.55.49:149][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.12.12-03.55.49:610][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spikes" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Spikes.uasset" SILENT=true
+[2020.12.12-03.55.49:625][288]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/BP_Spikes53AFADF6430EDC62053F37B024DC1B10.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Spikes.uasset'
+[2020.12.12-03.55.49:640][288]AssetCheck: New page: Asset Save: BP_Spikes
+[2020.12.12-03.55.49:640][288]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spikes.BP_Spikes
+[2020.12.12-03.55.50:921][416]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-03.55.50:935][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-03.55.50:935][416]PIE: New page: PIE session: Level_1 (Dec 11, 2020, 1:55:50 PM)
+[2020.12.12-03.55.50:936][416]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.55.50:938][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002115s)
+[2020.12.12-03.55.50:938][416]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.55.50:938][416]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021323CE6A00), frame # 1033416
+[2020.12.12-03.55.50:938][416]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000213FEAB4F40), frame # 1033416
+[2020.12.12-03.55.50:939][416]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2020.12.12-03.55.50:939][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.002971s)
+[2020.12.12-03.55.50:959][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.12.12-03.55.50:960][416]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-03.55.50:960][416]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-03.55.50:960][416]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-03.55.50:960][416]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-03.55.50:960][416]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-03.55.50:960][416]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-03.55.50:960][416]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-03.55.50:960][416]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-03.55.50:960][416]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-03.55.50:960][416]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-03.55.50:965][416]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-03.55.50:965][416]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-03.55.50:980][416]LogAudioMixer: Display: Using Audio Device Headset Earphone (5- Astro MixAmp Pro Voice)
+[2020.12.12-03.55.50:980][416]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-03.55.50:980][416]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-03.55.50:980][416]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-03.55.50:980][416]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-03.55.50:991][416]LogInit: FAudioDevice initialized.
+[2020.12.12-03.55.51:010][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.55.51:011][416]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.55.51:013][416]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.55.51
+[2020.12.12-03.55.51:013][416]LogWorld: Bringing up level for play took: 0.001616
+[2020.12.12-03.55.51:013][416]LogOnline: OSS: Creating online subsystem instance for: :Context_172
+[2020.12.12-03.55.51:017][416]PIE: Server logged in
+[2020.12.12-03.55.51:017][416]PIE: Play in editor total start time 0.082 seconds.
+[2020.12.12-03.55.59:164][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.55.59:164][368]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.55.59:165][368]LogSlate: Window 'ArchiesAdventure Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.12-03.55.59:174][368]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.55.59:174][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.55.59:183][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-03.55.59:186][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.55.59:222][368]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000213FEAB4F40), frame # 1034368
+[2020.12.12-03.55.59:222][368]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021323CE6A00), frame # 1034368
+[2020.12.12-03.55.59:224][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.12.12-03.55.59:246][369]LogPlayLevel: Display: Destroying online subsystem :Context_172
+[2020.12.12-03.56.05:464][ 25]BlueprintLog: New page: Compile BP_Spikes
+[2020.12.12-03.56.05:497][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.12.12-03.56.06:271][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spikes" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Spikes.uasset" SILENT=true
+[2020.12.12-03.56.06:285][106]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/BP_Spikes22DC64EA4760308A7F733F85170D069C.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Spikes.uasset'
+[2020.12.12-03.56.06:316][106]AssetCheck: New page: Asset Save: BP_Spikes
+[2020.12.12-03.56.06:316][106]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spikes.BP_Spikes
+[2020.12.12-03.56.07:011][175]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-03.56.07:025][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-03.56.07:025][175]PIE: New page: PIE session: Level_1 (Dec 11, 2020, 1:56:07 PM)
+[2020.12.12-03.56.07:025][175]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.56.07:028][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002078s)
+[2020.12.12-03.56.07:028][175]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.56.07:028][175]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021476BC4600), frame # 1035175
+[2020.12.12-03.56.07:028][175]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000213DE0AED40), frame # 1035175
+[2020.12.12-03.56.07:028][175]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2020.12.12-03.56.07:028][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.002928s)
+[2020.12.12-03.56.07:049][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.12.12-03.56.07:049][175]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-03.56.07:049][175]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-03.56.07:049][175]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-03.56.07:049][175]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-03.56.07:049][175]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-03.56.07:049][175]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-03.56.07:049][175]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-03.56.07:049][175]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-03.56.07:050][175]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-03.56.07:050][175]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-03.56.07:055][175]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-03.56.07:055][175]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-03.56.07:070][175]LogAudioMixer: Display: Using Audio Device Headset Earphone (5- Astro MixAmp Pro Voice)
+[2020.12.12-03.56.07:070][175]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-03.56.07:070][175]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-03.56.07:070][175]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-03.56.07:070][175]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-03.56.07:081][175]LogInit: FAudioDevice initialized.
+[2020.12.12-03.56.07:101][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.56.07:101][175]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.56.07:104][175]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.56.07
+[2020.12.12-03.56.07:104][175]LogWorld: Bringing up level for play took: 0.002155
+[2020.12.12-03.56.07:105][175]LogOnline: OSS: Creating online subsystem instance for: :Context_173
+[2020.12.12-03.56.07:109][175]PIE: Server logged in
+[2020.12.12-03.56.07:110][175]PIE: Play in editor total start time 0.085 seconds.
+[2020.12.12-03.56.14:314][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.56.14:314][ 14]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.56.14:315][ 14]LogSlate: Window 'ArchiesAdventure Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.12-03.56.14:323][ 14]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.56.14:324][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.56.14:334][ 14]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-03.56.14:337][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.56.14:371][ 14]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000213DE0AED40), frame # 1036014
+[2020.12.12-03.56.14:372][ 14]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021476BC4600), frame # 1036014
+[2020.12.12-03.56.14:373][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.12.12-03.56.14:394][ 15]LogPlayLevel: Display: Destroying online subsystem :Context_173
+[2020.12.12-03.56.19:265][565]BlueprintLog: New page: Compile BP_Spikes
+[2020.12.12-03.56.19:298][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.12.12-03.56.19:874][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spikes" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Spikes.uasset" SILENT=true
+[2020.12.12-03.56.19:893][608]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/BP_SpikesCA496B894C1760C765D554BFE08130F0.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Spikes.uasset'
+[2020.12.12-03.56.19:910][608]AssetCheck: New page: Asset Save: BP_Spikes
+[2020.12.12-03.56.19:910][608]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spikes.BP_Spikes
+[2020.12.12-03.56.23:417][991]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-03.56.23:431][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-03.56.23:432][991]PIE: New page: PIE session: Level_1 (Dec 11, 2020, 1:56:23 PM)
+[2020.12.12-03.56.23:432][991]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.56.23:434][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002120s)
+[2020.12.12-03.56.23:434][991]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.56.23:434][991]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021346D49400), frame # 1036991
+[2020.12.12-03.56.23:434][991]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021346CB0CC0), frame # 1036991
+[2020.12.12-03.56.23:435][991]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2020.12.12-03.56.23:435][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.002979s)
+[2020.12.12-03.56.23:455][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.12.12-03.56.23:456][991]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-03.56.23:456][991]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-03.56.23:456][991]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-03.56.23:456][991]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-03.56.23:456][991]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-03.56.23:456][991]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-03.56.23:456][991]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-03.56.23:456][991]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-03.56.23:456][991]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-03.56.23:456][991]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-03.56.23:461][991]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-03.56.23:461][991]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-03.56.23:475][991]LogAudioMixer: Display: Using Audio Device Headset Earphone (5- Astro MixAmp Pro Voice)
+[2020.12.12-03.56.23:475][991]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-03.56.23:476][991]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-03.56.23:476][991]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-03.56.23:476][991]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-03.56.23:488][991]LogInit: FAudioDevice initialized.
+[2020.12.12-03.56.23:507][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.56.23:507][991]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.56.23:509][991]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.56.23
+[2020.12.12-03.56.23:510][991]LogWorld: Bringing up level for play took: 0.001529
+[2020.12.12-03.56.23:510][991]LogOnline: OSS: Creating online subsystem instance for: :Context_174
+[2020.12.12-03.56.23:514][991]PIE: Server logged in
+[2020.12.12-03.56.23:515][991]PIE: Play in editor total start time 0.084 seconds.
+[2020.12.12-03.56.31:761][959]Cmd: RestartLevel
+[2020.12.12-03.56.31:770][960]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Level_1?restart
+[2020.12.12-03.56.31:770][960]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Level_1
+[2020.12.12-03.56.31:770][960]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.56.31:770][960]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.56.31:770][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.56.31:821][960]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021346CB0CC0), frame # 1037960
+[2020.12.12-03.56.31:821][960]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021346D49400), frame # 1037960
+[2020.12.12-03.56.31:823][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.12.12-03.56.31:824][960]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.56.31:826][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002067s)
+[2020.12.12-03.56.31:827][960]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.56.31:827][960]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000213C8991A00), frame # 1037960
+[2020.12.12-03.56.31:827][960]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000213BDBA91C0), frame # 1037960
+[2020.12.12-03.56.31:827][960]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2020.12.12-03.56.31:827][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.002965s)
+[2020.12.12-03.56.31:827][960]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.56.31:828][960]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.56.31
+[2020.12.12-03.56.31:828][960]LogWorld: Bringing up level for play took: 0.000847
+[2020.12.12-03.56.31:830][960]LogLoad: Took 0.060773 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1)
+[2020.12.12-03.56.33:133][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.56.33:133][110]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.56.33:134][110]LogSlate: Window 'ArchiesAdventure Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.12-03.56.33:143][110]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.56.33:143][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.56.33:150][110]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-03.56.33:153][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.56.33:188][110]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000213BDBA91C0), frame # 1038110
+[2020.12.12-03.56.33:188][110]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000213C8991A00), frame # 1038110
+[2020.12.12-03.56.33:189][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.12.12-03.56.33:211][111]LogPlayLevel: Display: Destroying online subsystem :Context_174
+[2020.12.12-03.56.43:043][227]BlueprintLog: New page: Compile BP_Spikes
+[2020.12.12-03.56.43:074][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.12.12-03.56.43:491][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spikes" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Spikes.uasset" SILENT=true
+[2020.12.12-03.56.43:503][266]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/BP_Spikes374C746D4D65743E7D7047B807826331.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Spikes.uasset'
+[2020.12.12-03.56.43:516][266]AssetCheck: New page: Asset Save: BP_Spikes
+[2020.12.12-03.56.43:516][266]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spikes.BP_Spikes
+[2020.12.12-03.56.56:169][639]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.56.56:169][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.56.58:452][881]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Sprinkler.BP_Sprinkler
+[2020.12.12-03.57.07:019][823]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Hairball.BP_Hairball
+[2020.12.12-03.57.53:106][ 61]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.57.53:106][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.57.55:029][239]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Water.BP_Water
+[2020.12.12-03.58.06:554][463]BlueprintLog: New page: Compile BP_Water
+[2020.12.12-03.58.06:592][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.12.12-03.58.07:765][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Water" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Water.uasset" SILENT=true
+[2020.12.12-03.58.07:793][592]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/BP_WaterD963E98B46BBA54216F67F94B0942760.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Water.uasset'
+[2020.12.12-03.58.07:804][592]AssetCheck: New page: Asset Save: BP_Water
+[2020.12.12-03.58.07:804][592]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Water.BP_Water
+[2020.12.12-03.58.10:126][835]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-03.58.10:141][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-03.58.10:141][835]PIE: New page: PIE session: Level_1 (Dec 11, 2020, 1:58:10 PM)
+[2020.12.12-03.58.10:141][835]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.58.10:143][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002112s)
+[2020.12.12-03.58.10:144][835]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.58.10:144][835]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021323B83E00), frame # 1048835
+[2020.12.12-03.58.10:144][835]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000213833F1D00), frame # 1048835
+[2020.12.12-03.58.10:144][835]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2020.12.12-03.58.10:144][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.003062s)
+[2020.12.12-03.58.10:166][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.12.12-03.58.10:167][835]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-03.58.10:167][835]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-03.58.10:167][835]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-03.58.10:167][835]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-03.58.10:167][835]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-03.58.10:167][835]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-03.58.10:167][835]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-03.58.10:167][835]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-03.58.10:168][835]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-03.58.10:168][835]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-03.58.10:173][835]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-03.58.10:173][835]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-03.58.10:189][835]LogAudioMixer: Display: Using Audio Device Headset Earphone (5- Astro MixAmp Pro Voice)
+[2020.12.12-03.58.10:189][835]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-03.58.10:190][835]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-03.58.10:190][835]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-03.58.10:190][835]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-03.58.10:201][835]LogInit: FAudioDevice initialized.
+[2020.12.12-03.58.10:223][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.58.10:223][835]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.58.10:224][835]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.58.10
+[2020.12.12-03.58.10:225][835]LogWorld: Bringing up level for play took: 0.001446
+[2020.12.12-03.58.10:225][835]LogOnline: OSS: Creating online subsystem instance for: :Context_178
+[2020.12.12-03.58.10:230][835]PIE: Server logged in
+[2020.12.12-03.58.10:231][835]PIE: Play in editor total start time 0.091 seconds.
+[2020.12.12-03.58.14:280][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.58.14:281][301]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.58.14:281][301]LogSlate: Window 'ArchiesAdventure Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.12-03.58.14:297][301]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.58.14:297][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.58.14:304][301]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-03.58.14:307][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.58.14:343][301]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000213833F1D00), frame # 1049301
+[2020.12.12-03.58.14:343][301]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021323B83E00), frame # 1049301
+[2020.12.12-03.58.14:346][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.12.12-03.58.14:366][302]LogPlayLevel: Display: Destroying online subsystem :Context_178
+[2020.12.12-03.58.28:079][771]LogEditorTransaction: Undo Move Node
+[2020.12.12-03.58.29:198][859]LogEditorTransaction: Undo Move Node
+[2020.12.12-03.58.29:412][882]LogEditorTransaction: Undo Move Node
+[2020.12.12-03.58.39:283][967]BlueprintLog: New page: Compile BP_Hairball
+[2020.12.12-03.58.39:323][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.12.12-03.58.39:731][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Hairball" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Hairball.uasset" SILENT=true
+[2020.12.12-03.58.39:749][  2]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/BP_HairballDF262C5F4645A9A8C8328DB410D91E3C.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/BP_Hairball.uasset'
+[2020.12.12-03.58.39:760][  2]AssetCheck: New page: Asset Save: BP_Hairball
+[2020.12.12-03.58.39:761][  2]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Hairball.BP_Hairball
+[2020.12.12-03.58.41:228][161]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-03.58.41:242][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-03.58.41:242][161]PIE: New page: PIE session: Level_1 (Dec 11, 2020, 1:58:41 PM)
+[2020.12.12-03.58.41:243][161]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.58.41:245][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002063s)
+[2020.12.12-03.58.41:245][161]LogAIModule: Creating AISystem for world Level_1
+[2020.12.12-03.58.41:245][161]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021470D18400), frame # 1052161
+[2020.12.12-03.58.41:245][161]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000213FEEB1BC0), frame # 1052161
+[2020.12.12-03.58.41:245][161]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2020.12.12-03.58.41:245][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.002922s)
+[2020.12.12-03.58.41:268][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.12.12-03.58.41:269][161]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-03.58.41:269][161]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-03.58.41:269][161]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-03.58.41:269][161]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-03.58.41:269][161]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-03.58.41:269][161]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-03.58.41:269][161]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-03.58.41:269][161]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-03.58.41:269][161]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-03.58.41:269][161]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-03.58.41:275][161]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-03.58.41:275][161]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-03.58.41:289][161]LogAudioMixer: Display: Using Audio Device Headset Earphone (5- Astro MixAmp Pro Voice)
+[2020.12.12-03.58.41:290][161]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-03.58.41:290][161]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-03.58.41:290][161]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-03.58.41:290][161]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-03.58.41:302][161]LogInit: FAudioDevice initialized.
+[2020.12.12-03.58.41:320][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.58.41:320][161]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.12-03.58.41:322][161]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.12.11-20.58.41
+[2020.12.12-03.58.41:322][161]LogWorld: Bringing up level for play took: 0.001456
+[2020.12.12-03.58.41:323][161]LogOnline: OSS: Creating online subsystem instance for: :Context_179
+[2020.12.12-03.58.41:326][161]PIE: Server logged in
+[2020.12.12-03.58.41:327][161]PIE: Play in editor total start time 0.085 seconds.
+[2020.12.12-03.58.44:439][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-03.58.44:439][509]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2020.12.12-03.58.44:440][509]LogSlate: Window 'ArchiesAdventure Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.12-03.58.44:460][509]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-03.58.44:460][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.58.44:467][509]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-03.58.44:470][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-03.58.44:507][509]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000213FEEB1BC0), frame # 1052509
+[2020.12.12-03.58.44:507][509]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021470D18400), frame # 1052509
+[2020.12.12-03.58.44:509][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.12.12-03.58.44:531][510]LogPlayLevel: Display: Destroying online subsystem :Context_179
