@@ -26769,3 +26769,121 @@ Script Stack (0 frames):
 [2020.12.12-05.17.14:808][567]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002141A897000), frame # 1284567
 [2020.12.12-05.17.14:810][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
 [2020.12.12-05.17.14:853][568]LogPlayLevel: Display: Destroying online subsystem :Context_224
+[2020.12.12-05.18.16:681][546]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Spritesheet_TileMap5089D5F04F6D46794E58D5BD5635E608.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/Spritesheet_TileMap.uasset'
+[2020.12.12-05.18.16:683][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Spritesheet_TileMap" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Sprites/Spritesheet_TileMap.uasset" SILENT=true
+[2020.12.12-05.18.16:692][546]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Spritesheet_TileMap5B40676848010C13BAEDF7B73C3E44DC.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Sprites/Spritesheet_TileMap.uasset'
+[2020.12.12-05.18.16:734][546]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.12-05.18.16:734][546]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScrollerBP/Maps/Spritesheet_TileMap.Spritesheet_TileMap
+[2020.12.12-05.18.16:734][546]LogContentValidation: Display: Validating ObjectRedirector /Game/Sprites/Spritesheet_TileMap.Spritesheet_TileMap
+[2020.12.12-05.18.40:379][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Maps/TileMap_Level_1" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/TileMap_Level_1.uasset" SILENT=true
+[2020.12.12-05.18.40:428][309]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/TileMap_Level_1B0C59C1D44F595169427D6ACEA5F609D.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/TileMap_Level_1.uasset'
+[2020.12.12-05.18.40:693][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.12.12-05.18.40:779][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.12.12-05.18.40:806][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.12.12-05.18.40:876][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Spritesheet_TileMap" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Sprites/Spritesheet_TileMap.uasset" SILENT=true
+[2020.12.12-05.18.40:884][309]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Spritesheet_TileMap4D07A4E240F4D7792C0FC98F7B58BF40.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Sprites/Spritesheet_TileMap.uasset'
+[2020.12.12-05.18.40:931][309]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.12-05.18.40:931][309]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScrollerBP/Maps/TileMap_Level_1.TileMap_Level_1
+[2020.12.12-05.18.40:931][309]LogContentValidation: Display: Validating ObjectRedirector /Game/Sprites/Spritesheet_TileMap.Spritesheet_TileMap
+[2020.12.12-05.19.21:049][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Maps/TileMap_Level2" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/TileMap_Level2.uasset" SILENT=true
+[2020.12.12-05.19.21:055][914]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/TileMap_Level283200B404023CC72F3CA13964121A8C1.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/TileMap_Level2.uasset'
+[2020.12.12-05.19.21:265][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.12.12-05.19.21:307][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.12.12-05.19.21:334][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.12.12-05.19.21:362][914]AssetCheck: New page: Asset Save: TileMap_Level2
+[2020.12.12-05.19.21:362][914]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScrollerBP/Maps/TileMap_Level2.TileMap_Level2
+[2020.12.12-05.19.23:651][123]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/2DSideScrollerBP/Maps/TileMap_Level2.TileMap_Level2
+[2020.12.12-05.19.34:438][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Maps/TileMap_Level2" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/TileMap_Level2.uasset" SILENT=true
+[2020.12.12-05.19.34:450][322]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/TileMap_Level2CE5B1D5D49379112A8985592A892D4E0.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/TileMap_Level2.uasset'
+[2020.12.12-05.19.34:462][322]AssetCheck: New page: Asset Save: TileMap_Level2
+[2020.12.12-05.19.34:462][322]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScrollerBP/Maps/TileMap_Level2.TileMap_Level2
+[2020.12.12-05.19.37:335][611]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Spritesheet_TileMap)
+[2020.12.12-05.19.39:809][896]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Sky)
+[2020.12.12-05.19.40:732][  3]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Spritesheet_TileMap)
+[2020.12.12-05.20.13:105][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.12.12-05.20.18:692][372]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/Level_2.Level_2
+[2020.12.12-05.20.18:721][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.12.12-05.20.20:615][372]LogSlate: Window 'Save Content' being destroyed
+[2020.12.12-05.20.20:656][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.12.12-05.20.20:699][372]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Level_19644CABD4BDEA753058E0B9DAF02964F.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/Level_1.umap'
+[2020.12.12-05.20.20:730][372]LogFileHelpers: Saving map 'Level_1' took 0.103
+[2020.12.12-05.20.20:741][372]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Level_1_BuiltData9DC2D4F948DEBD54424CA0B1DBF3556B.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/Level_1_BuiltData.uasset'
+[2020.12.12-05.20.20:749][372]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Level_1_BuiltData57AA59E6494C7F75E9BDB88494F6B55D.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/Level_1_BuiltData.uasset'
+[2020.12.12-05.20.20:782][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.12.12-05.20.20:797][372]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Level_2736DAF6D47A363EF7A08BEA97C462E23.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/Level_2.umap'
+[2020.12.12-05.20.20:801][372]LogFileHelpers: Saving map 'Level_2' took 0.052
+[2020.12.12-05.20.20:801][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Maps/LevelComplete" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/LevelComplete.uasset" SILENT=true
+[2020.12.12-05.20.20:845][372]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/LevelCompleteB6553DF648A436A8F1046F8493D22C86.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/LevelComplete.uasset'
+[2020.12.12-05.20.20:846][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/2DSideScrollerCharacter" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.12.12-05.20.20:881][372]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/2DSideScrollerCharacterA7262A0148A09D783F6F989A4F226A62.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Blueprints/2DSideScrollerCharacter.uasset'
+[2020.12.12-05.20.20:886][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/level_complete" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Sprites/level_complete.uasset" SILENT=true
+[2020.12.12-05.20.20:915][372]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/level_complete14D47600439B320ECDDD278FC7404F4B.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Sprites/level_complete.uasset'
+[2020.12.12-05.20.20:921][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/level_complete_Sprite" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Sprites/level_complete_Sprite.uasset" SILENT=true
+[2020.12.12-05.20.20:927][372]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/level_complete_SpriteEA35E2B2473ABCEB46CEFA8AB240259A.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/Sprites/level_complete_Sprite.uasset'
+[2020.12.12-05.20.20:928][372]Cmd: MAP LOAD FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/Level_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.12-05.20.20:928][372]LightingResults: New page: Lighting Build
+[2020.12.12-05.20.20:928][372]LoadErrors: New page: Loading map: Level_2.umap
+[2020.12.12-05.20.20:929][372]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-05.20.20:929][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-05.20.20:929][372]MapCheck: New page: Map Check
+[2020.12.12-05.20.20:930][372]LightingResults: New page: Lighting Build
+[2020.12.12-05.20.20:958][372]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021475530600), frame # 1304372
+[2020.12.12-05.20.20:958][372]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021344C50CC0), frame # 1304372
+[2020.12.12-05.20.20:960][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.12.12-05.20.20:965][372]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.12-05.20.20:965][372]LogAIModule: Creating AISystem for world Level_2
+[2020.12.12-05.20.20:965][372]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021400F59000), frame # 1304372
+[2020.12.12-05.20.20:966][372]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002143DF0A5C0), frame # 1304372
+[2020.12.12-05.20.20:997][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.12.12-05.20.21:023][372]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.12-05.20.21:023][372]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2020.12.12-05.20.21:023][372]LogFileHelpers: Loading map 'Level_2' took 0.095
+[2020.12.12-05.20.21:092][372]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.12-05.20.21:092][372]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/Level_1.Level_1
+[2020.12.12-05.20.21:109][372]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2020.12.12-05.20.21:109][372]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/Level_2.Level_2
+[2020.12.12-05.20.21:109][372]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Maps/LevelComplete.LevelComplete
+[2020.12.12-05.20.21:109][372]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.12.12-05.20.21:109][372]LogContentValidation: Display: Validating Texture2D /Game/Sprites/level_complete.level_complete
+[2020.12.12-05.20.21:109][372]LogContentValidation: Display: Validating PaperSprite /Game/Sprites/level_complete_Sprite.level_complete_Sprite
+[2020.12.12-05.20.52:819][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Maps/TileMap_Level2" FILE="../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/TileMap_Level2.uasset" SILENT=true
+[2020.12.12-05.20.52:851][798]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/TileMap_Level2F852042746E03C7738A3D48B45706315.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/TileMap_Level2.uasset'
+[2020.12.12-05.20.52:866][798]AssetCheck: New page: Asset Save: TileMap_Level2
+[2020.12.12-05.20.52:866][798]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScrollerBP/Maps/TileMap_Level2.TileMap_Level2
+[2020.12.12-05.21.41:931][942]Cmd: DELETE
+[2020.12.12-05.21.41:931][942]Cmd: ACTOR DELETE
+[2020.12.12-05.21.41:932][942]LogEditorActor: Deleted Actor: PaperTileMapActor
+[2020.12.12-05.21.41:968][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.12.12-05.21.41:971][942]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.12.12-05.21.46:273][441]LogEditorViewport: Clicking on Actor (LMB): BP_EnemyCat_C (BP_EnemyCat)
+[2020.12.12-05.21.47:997][645]Cmd: DELETE
+[2020.12.12-05.21.47:998][645]Cmd: ACTOR DELETE
+[2020.12.12-05.21.47:999][645]LogEditorActor: Deleted Actor: BP_EnemyCat_C
+[2020.12.12-05.21.48:028][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.12.12-05.21.48:030][645]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.12.12-05.21.48:446][693]LogEditorViewport: Clicking on Actor (LMB): BP_Spikes_C (Spikes)
+[2020.12.12-05.21.48:741][726]Cmd: DELETE
+[2020.12.12-05.21.48:741][726]Cmd: ACTOR DELETE
+[2020.12.12-05.21.48:742][726]LogEditorActor: Deleted Actor: BP_Spikes_C
+[2020.12.12-05.21.48:773][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.12.12-05.21.48:774][726]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.12.12-05.21.49:244][780]LogEditorViewport: Clicking on Actor (LMB): BP_Sprinkler_C (BP_Sprinkler)
+[2020.12.12-05.21.49:448][802]Cmd: DELETE
+[2020.12.12-05.21.49:448][802]Cmd: ACTOR DELETE
+[2020.12.12-05.21.49:449][802]LogEditorActor: Deleted Actor: BP_Sprinkler_C
+[2020.12.12-05.21.49:477][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.12.12-05.21.49:478][802]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.12.12-05.21.51:250][ 12]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Sky)
+[2020.12.12-05.21.51:601][ 51]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Sky)
+[2020.12.12-05.21.52:229][125]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Sky)
+[2020.12.12-05.21.52:796][192]LogEditorViewport: Clicking on Actor (LMB): BP_Flag_C (BP_Flag)
+[2020.12.12-05.21.53:142][231]Cmd: DELETE
+[2020.12.12-05.21.53:142][231]Cmd: ACTOR DELETE
+[2020.12.12-05.21.53:143][231]LogEditorActor: Deleted Actor: BP_Flag_C
+[2020.12.12-05.21.53:171][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.12.12-05.21.53:173][231]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.12.12-05.21.57:858][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.12.12-05.21.57:879][773]LogSavePackage: Moving '../../../../../../Users/ferna/Projects/Archies-Adventure/Saved/Level_2B8BF1A294EE108AB6CE9E4B692B17AED.tmp' to '../../../../../../Users/ferna/Projects/Archies-Adventure/Content/2DSideScrollerBP/Maps/Level_2.umap'
+[2020.12.12-05.21.57:918][773]AssetCheck: New page: Asset Save: Level_2
+[2020.12.12-05.21.57:918][773]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/Level_2.Level_2
+[2020.12.12-05.22.00:760][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
